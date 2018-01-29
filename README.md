@@ -9,7 +9,7 @@ Activity 1: Hello World
 
 Activity 3: Fork and Pull Request
 * Fork link: https://github.com/michaelvwu/Lab2Fork-102.git
-* pull request link: 
+* pull request link: https://github.com/UVA-CS3240-S18/Lab2Fork-102/pull/7
     - improvements made to pig.py by using multiple assignment for variable initialization
     - improvement made to lo_shu.py by modifying the program to use a function and main 
     - improvement made to wendy, limits the distance printed from unlimited digits to digits up to two decimal places. 
